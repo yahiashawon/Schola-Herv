@@ -1,3 +1,4 @@
+![Schola-Herv Demo](assets/schola_herv_demo.gif)
 # Schola-herv
 
 > **"Schola"** = scholarly · **"herv"** = harvest
@@ -9,7 +10,7 @@
 [![PyPI](https://img.shields.io/badge/pypi-schola--herv-orange)](https://pypi.org/project/schola-herv/)
 [![GitHub release](https://img.shields.io/github/v/release/yahiashawon/schola-herv)](https://github.com/yahiashawon/schola-herv/releases)
 [![GitHub last commit](https://img.shields.io/github/last-commit/yahiashawon/schola-herv)](https://github.com/yahiashawon/schola-herv/commits/main)
-![Schola-Herv Demo](assets/schola_herv_demo.gif)
+
 ---
 
 ## Table of Contents
