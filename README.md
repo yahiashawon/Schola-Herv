@@ -1,6 +1,5 @@
-![Schola-Herv Demo](assets/schola_herv_demo.gif)
 # Schola-herv
-
+![Schola-Herv Demo](assets/schola_herv_demo.gif)
 > **"Schola"** = scholarly · **"herv"** = harvest
 
 **Schola-herv** is an open-source command-line tool for mass-scale academic paper discovery and PDF downloading. Built for researchers and engineers who need large, domain-specific corpora — for training language models, systematic literature reviews, or archiving scientific literature at scale.
