@@ -7,9 +7,6 @@
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PyPI](https://img.shields.io/badge/pypi-schola--herv-orange)](https://pypi.org/project/schola-herv/)
-[![GitHub release](https://img.shields.io/github/v/release/yahiashawon/schola-herv)](https://github.com/yahiashawon/schola-herv/releases)
-[![GitHub last commit](https://img.shields.io/github/last-commit/yahiashawon/schola-herv)](https://github.com/yahiashawon/schola-herv/commits/main)
-
 ---
 
 ## Table of Contents
